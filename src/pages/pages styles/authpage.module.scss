@@ -1,0 +1,38 @@
+.link {
+  color: #747474;
+  position: absolute;
+  top: 90%;
+  left: 60%;
+  text-align: center;
+  button {
+    border: none;
+    cursor: pointer;
+    color: #2691d9;
+    background: none;
+    outline: none;
+    font-size: 1rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+  }
+  p {
+    color: #747474;
+    font-size: 0.9rem;
+    padding: 0.5rem;
+  }
+}
+
+.intro {
+  padding-left: 5rem;
+  padding-top: 10rem;
+  h2 {
+    color: #333;
+    font-size: 5rem;
+  }
+  h5 {
+    font-family: "Montserrat", sans-serif;
+    padding: 2.5rem 1rem 0rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #333;
+  }
+}
